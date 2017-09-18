@@ -1,0 +1,8 @@
+1) 
+1
+0
+0
+1
+1
+This represents the remainders of the integer division of 25 each time it is divided by 2, until the integer division equals zero. 
+2) This function returns x*y, because each time the function calls itself it adds x to the return value, and it calls itself y times, returning 0 when y = 0. 
